@@ -3,7 +3,7 @@
 
 ## Description
 
-This is a Job Search App created using React Hooks and a GitHub Api. I have built this by following a Udemy course (credits below) and it has been an good experience.
+This is a Job Search App created using React Hooks and GitHub Api. I built this app by following a Udemy course (credits below) and it has been an good experience.
 
 ## Getting Started
 
